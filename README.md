@@ -4,7 +4,7 @@ Trained on local machine, only CPU for 10 epochs. No data augmentation or dropou
 Architecture was used from https://www.kaggle.com/code/shadabhussain/cifar-10-cnn-using-pytorch.
 
 Find training curve as well as additional metrics below.
-![Loss](output/loss_curves.png)
+![Loss](output/loss_curve.png)
 
 Correct example predictions
 ![Correct Test Sample Prediction](output/correctly_classified.png)
